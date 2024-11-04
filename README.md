@@ -4,5 +4,13 @@
 * Going into this class I have no programming experience.
 
 ## Term 1
+###  Etch-A-Sketch
+Graphics project with keypress drawing controls with the ability to save images.
+![Running App]()
+[Source Code]()
 
 ## Term 2
+### Calculator
+s
+![Running App]()
+[Source Code]()
