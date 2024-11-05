@@ -6,7 +6,7 @@
 ## Term 1
 ###  Etch-A-Sketch
 Graphics project with keypress drawing controls with the ability to save images.
-![Running App]()
+![Running App](https://github.com/benwake9/programmingportfolio2025-a2/blob/main/images/line-002022.png?raw=true)
 [Source Code]()
 
 ## Term 2
