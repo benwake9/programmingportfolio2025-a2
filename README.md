@@ -1,7 +1,8 @@
 # Ben Wakefield's Programming Portfolio 2024-25
+Contact Info: 9623010@graniteschools.org
 * Projected graduation 2026.
 * My goal for this class is to find out if programming is something I am interested in.
-* Going into this class I have no programming experience.
+* I have had some experience in HTML while taking Exploring Computer Science.
 
 ## Term 1
 ###  Etch-A-Sketch
