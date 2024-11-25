@@ -28,7 +28,7 @@ void draw() {
   if (!play) {
     startScreen();
   } else {
-    if (frameCount % 100 == 0) {
+    if (frameCount % 1000 == 0) {
       level = level + 1;
       rockTime-=50;
     }
