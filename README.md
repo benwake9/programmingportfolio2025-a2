@@ -25,7 +25,7 @@ Object oriented graphical calculator with custom buttons ad UI.
 ### Space Game
 Space ship game.
 
-![Running App]()
+![Running App](https://github.com/benwake9/programmingportfolio2025-a2/blob/main/images/spacegame.png?raw=true)
 
 [Source Code]()
 
