@@ -27,5 +27,5 @@ Player controlled space ship with firing function, sounds, powerups, and rocks w
 
 ![Running App](https://github.com/benwake9/programmingportfolio2025-a2/blob/main/images/spacegame.png?raw=true)
 
-[Source Code]([https://github.com/benwake9/programmingportfolio2025-a2/tree/main/src/SpaceGame](https://github.com/benwake9/programmingportfolio2025-a2/tree/main/src/SpaceGame))
+[Source Code](https://github.com/benwake9/programmingportfolio2025-a2/tree/main/src/SpaceGame)
 
