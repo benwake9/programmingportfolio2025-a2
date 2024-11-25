@@ -23,9 +23,9 @@ Object oriented graphical calculator with custom buttons ad UI.
 [Source Code](https://github.com/benwake9/programmingportfolio2025-a2/tree/main/src/CalculatorApp)
 
 ### Space Game
-Space ship game.
+Player controlled space ship with firing function, sounds, powerups, and rocks with random fall speeds.
 
 ![Running App](https://github.com/benwake9/programmingportfolio2025-a2/blob/main/images/spacegame.png?raw=true)
 
-[Source Code]()
+[Source Code](https://github.com/benwake9/programmingportfolio2025-a2/tree/main/src/SpaceGame)
 
