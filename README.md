@@ -14,6 +14,13 @@ Graphics project with keypress drawing controls with the ability to save images.
 
 [Source Code](https://github.com/benwake9/programmingportfolio2025-a2/blob/main/src/etchASketch.pde)
 
+### History of Computers Timeline
+Timeline that displays text information when cursor is over event box.
+
+![Running App](https://github.com/benwake9/programmingportfolio2025-a2/blob/main/images/line-002022.png?raw=true)
+
+[Source Code](https://github.com/benwake9/programmingportfolio2025-a2/blob/main/src/etchASketch.pde)
+
 ## Term 2
 ### Calculator
 Object oriented graphical calculator with custom buttons and UI.
