@@ -17,9 +17,9 @@ Graphics project with keypress drawing controls with the ability to save images.
 ### History of Computers Timeline
 Timeline that displays text information when cursor is over event box.
 
-![Running App](https://github.com/benwake9/programmingportfolio2025-a2/blob/main/images/line-002022.png?raw=true)
+![Running App](https://github.com/benwake9/programmingportfolio2025-a2/blob/main/images/timeline.png?raw=true)
 
-[Source Code]((https://github.com/benwake9/programmingportfolio2025-a2/blob/main/src/Timeline.pde))
+[Source Code](https://github.com/benwake9/programmingportfolio2025-a2/blob/main/src/Timeline.pde)
 
 ## Term 2
 ### Calculator
