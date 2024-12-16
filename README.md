@@ -1,7 +1,7 @@
 # Ben Wakefield's Programming Portfolio 2024-25
 Contact Info: 9623010@graniteschools.org
 
-Certifications: Earned certfication from ECS1 Course.
+Certifications: * Programming 1 Certification
 * Projected graduation 2026.
 * My goal for this class is to find out if programming is something I am interested in.
 * I have had some experience in HTML while taking Exploring Computer Science.
