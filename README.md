@@ -24,9 +24,9 @@ Timeline that displays text information when cursor is over event box.
 ### Grading App
 Slider that converts numbers into letter grades.
 
-![Running App](https://github.com/benwake9/programmingportfolio2025-a2/blob/main/images/Calc.png?raw=true)
+![Running App](https://github.com/benwake9/programmingportfolio2025-a2/blob/main/images/gradeApp.png?raw=true)
 
-[Source Code](https://github.com/benwake9/programmingportfolio2025-a2/tree/main/src/CalculatorApp)
+[Source Code](https://github.com/benwake9/programmingportfolio2025-a2/blob/main/src/Data_Types_and_Variables.pde)
 
 ## Term 2
 ### Calculator
