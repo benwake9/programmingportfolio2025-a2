@@ -21,6 +21,13 @@ Timeline that displays text information when cursor is over event box.
 
 [Source Code](https://github.com/benwake9/programmingportfolio2025-a2/blob/main/src/Timeline.pde)
 
+### Grading App
+Slider that converts numbers into letter grades.
+
+![Running App](https://github.com/benwake9/programmingportfolio2025-a2/blob/main/images/Calc.png?raw=true)
+
+[Source Code](https://github.com/benwake9/programmingportfolio2025-a2/tree/main/src/CalculatorApp)
+
 ## Term 2
 ### Calculator
 Object oriented graphical calculator with custom buttons and UI.
