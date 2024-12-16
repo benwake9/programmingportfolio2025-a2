@@ -19,7 +19,7 @@ Timeline that displays text information when cursor is over event box.
 
 ![Running App](https://github.com/benwake9/programmingportfolio2025-a2/blob/main/images/line-002022.png?raw=true)
 
-[Source Code](https://github.com/benwake9/programmingportfolio2025-a2/blob/main/src/etchASketch.pde)
+[Source Code]((https://github.com/benwake9/programmingportfolio2025-a2/blob/main/src/Timeline.pde))
 
 ## Term 2
 ### Calculator
